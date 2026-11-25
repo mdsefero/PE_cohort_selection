@@ -1,0 +1,5 @@
+*
+!/.gitignore
+!/match.py
+!/add_pe.py
+!/README.md
